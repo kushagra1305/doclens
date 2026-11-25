@@ -27,7 +27,7 @@
   {"id": "q26", "question": "How are non-resident sportsmen taxed on income earned in India?", "answerable": true, "source": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf", "pages": [259]},
   {"id": "q27", "question": "What can the Assessing Officer do if income has escaped assessment?", "answerable": true, "source": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf", "pages": [340]},
   {"id": "q28", "question": "What is the minimum time a notice for income escaping assessment must give to respond?", "answerable": true, "source": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf", "pages": [341]},
-  {"id": "q29", "question": "Can an income-tax authority ask a bank to furnish information about accounts?", "answerable": true, "source": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf", "pages": [304]},
+  {"id": "q30", "question": "Can a tax authority enter a business place to conduct a survey?", "answerable": true, "source": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf", "pages": [305, 307]},
   {"id": "q30", "question": "Can a tax authority enter a business place to conduct a survey?", "answerable": true, "source": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf", "pages": [305]},
   {"id": "q31", "question": "Who is eligible to use ITR-1?", "answerable": true, "source": "Instructions_ITR1_AY2021_22.pdf", "pages": [1, 2]},
   {"id": "q32", "question": "Can someone who has TDS under section 194N file ITR-1?", "answerable": true, "source": "Instructions_ITR1_AY2021_22.pdf", "pages": [2]},
