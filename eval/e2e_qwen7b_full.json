@@ -1,0 +1,926 @@
+[
+  {
+    "id": "q01",
+    "question": "How is a 'tax year' defined in the Income-tax Act 2025?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[12]",
+    "refused_by": null,
+    "cited": true,
+    "citation_correct": true,
+    "top_score": 5.75,
+    "answer": "A 'tax year' is defined as the twelve months period of the financial year commencing on the 1st April [3][1].",
+    "sources": [
+      {
+        "source": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf",
+        "page": 1,
+        "passages": [
+          1
+        ]
+      },
+      {
+        "source": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf",
+        "page": 12,
+        "passages": [
+          3
+        ]
+      }
+    ],
+    "seconds": 45.2
+  },
+  {
+    "id": "q02",
+    "question": "How many days must an individual stay in India in a tax year to be treated as a resident?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[15]",
+    "refused_by": null,
+    "cited": true,
+    "citation_correct": true,
+    "top_score": 7.33,
+    "answer": "An individual must be in India for a total period of one hundred and eighty-two days or more in that tax year, or be in India cumulatively for sixty days or more during that year and has been in India cumulatively for three hundred and sixty-five days or more in the four years preceding such tax year to be treated as a resident [1][2].",
+    "sources": [
+      {
+        "source": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf",
+        "page": 15,
+        "passages": [
+          1,
+          2
+        ]
+      }
+    ],
+    "seconds": 73.5
+  },
+  {
+    "id": "q03",
+    "question": "How is income divided between husband and wife under the Portuguese Civil Code system in Goa?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[22]",
+    "refused_by": null,
+    "cited": true,
+    "citation_correct": true,
+    "top_score": 8.53,
+    "answer": "Under the Portuguese Civil Code system in force in Goa, the income of a husband and wife is not assessed together as that of a community of property. Instead, the income from each head of income other than \"Salaries\" is divided equally between the husband and the wife. This divided income is then included separately in the total income of the husband and the wife, respectively [1].",
+    "sources": [
+      {
+        "source": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf",
+        "page": 22,
+        "passages": [
+          1
+        ]
+      }
+    ],
+    "seconds": 54.8
+  },
+  {
+    "id": "q04",
+    "question": "When does a business have to keep and maintain books of account?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[87]",
+    "refused_by": null,
+    "cited": true,
+    "citation_correct": true,
+    "top_score": 5.06,
+    "answer": "A business has to keep and maintain books of account if the income from business or profession exceeds Rs. 120,000 or the total sales, turnover, or gross receipts from such business or profession exceed ten lakh rupees in any one of the three years immediately preceding the tax year [1][2].",
+    "sources": [
+      {
+        "source": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf",
+        "page": 87,
+        "passages": [
+          1
+        ]
+      },
+      {
+        "source": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf",
+        "page": 674,
+        "passages": [
+          2
+        ]
+      }
+    ],
+    "seconds": 47.5
+  },
+  {
+    "id": "q05",
+    "question": "Above what turnover must a business get its accounts audited by an accountant?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[88]",
+    "refused_by": null,
+    "cited": true,
+    "citation_correct": true,
+    "top_score": 1.75,
+    "answer": "According to the provided documents, a business must get its accounts audited by an accountant if its total sales, turnover, or gross receipts exceed one crore rupees in any tax year [3].",
+    "sources": [
+      {
+        "source": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf",
+        "page": 88,
+        "passages": [
+          3
+        ]
+      }
+    ],
+    "seconds": 53.8
+  },
+  {
+    "id": "q06",
+    "question": "What happens if a sum credited in an assessee's books has no satisfactory explanation?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[137]",
+    "refused_by": null,
+    "cited": true,
+    "citation_correct": true,
+    "top_score": 6.6,
+    "answer": "If a sum credited in an assessee's books has no satisfactory explanation, the sum will be charged to income-tax as income of the assessee for that tax year [1][2].",
+    "sources": [
+      {
+        "source": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf",
+        "page": 137,
+        "passages": [
+          1,
+          2
+        ]
+      }
+    ],
+    "seconds": 57.9
+  },
+  {
+    "id": "q07",
+    "question": "For how many years can a business loss be carried forward?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[147]",
+    "refused_by": null,
+    "cited": true,
+    "citation_correct": true,
+    "top_score": 7.67,
+    "answer": "For business loss, it can be carried forward for no more than eight tax years immediately succeeding the tax year for which the loss was first computed [2][4].",
+    "sources": [
+      {
+        "source": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf",
+        "page": 147,
+        "passages": [
+          2
+        ]
+      },
+      {
+        "source": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf",
+        "page": 145,
+        "passages": [
+          4
+        ]
+      }
+    ],
+    "seconds": 48.6
+  },
+  {
+    "id": "q08",
+    "question": "What tax rebate does a resident individual get under the new tax regime if income is up to twelve lakh rupees?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[195]",
+    "refused_by": "model",
+    "cited": true,
+    "citation_correct": null,
+    "top_score": 4.92,
+    "answer": "I don't know based on the provided documents.",
+    "sources": [],
+    "seconds": 54.1
+  },
+  {
+    "id": "q09",
+    "question": "What is the limit on receiving cash payments in a single transaction?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[227]",
+    "refused_by": null,
+    "cited": true,
+    "citation_correct": false,
+    "top_score": 0.34,
+    "answer": "The limit on receiving cash payments in a single transaction is Rs. 10,000 [2][3].",
+    "sources": [
+      {
+        "source": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf",
+        "page": 465,
+        "passages": [
+          2,
+          3
+        ]
+      }
+    ],
+    "seconds": 50.7
+  },
+  {
+    "id": "q10",
+    "question": "Which businesses must offer digital payment facilities to customers?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[228]",
+    "refused_by": null,
+    "cited": true,
+    "citation_correct": true,
+    "top_score": -1.0,
+    "answer": "Businesses that carry on a business or profession and have total sales, turnover, or gross receipts exceeding fifty crore rupees during the immediately preceding tax year must offer digital payment facilities [1].",
+    "sources": [
+      {
+        "source": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf",
+        "page": 228,
+        "passages": [
+          1
+        ]
+      }
+    ],
+    "seconds": 54.2
+  },
+  {
+    "id": "q11",
+    "question": "What is the tax rate under the new tax regime on income between Rs 4,00,001 and Rs 8,00,000?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[244]",
+    "refused_by": "model",
+    "cited": true,
+    "citation_correct": null,
+    "top_score": 3.38,
+    "answer": "I don't know based on the provided documents.",
+    "sources": [],
+    "seconds": 76.5
+  },
+  {
+    "id": "q12",
+    "question": "Does a non-resident Indian have to file a return if they only have investment income and tax was deducted at source?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[264]",
+    "refused_by": null,
+    "cited": true,
+    "citation_correct": true,
+    "top_score": 8.3,
+    "answer": "Yes, a non-resident Indian does not have to file a return if their total income during the tax year consisted only of investment income or income by way of long-term capital gains or both, and the tax deductible at source under the provisions of Chapter XIX-B has been deducted from such income [1].",
+    "sources": [
+      {
+        "source": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf",
+        "page": 264,
+        "passages": [
+          1
+        ]
+      }
+    ],
+    "seconds": 59.0
+  },
+  {
+    "id": "q13",
+    "question": "Who adopts and declares the Taxpayer's Charter?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[291]",
+    "refused_by": null,
+    "cited": true,
+    "citation_correct": true,
+    "top_score": 8.62,
+    "answer": "The Board adopts and declares the Taxpayer's Charter [1].",
+    "sources": [
+      {
+        "source": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf",
+        "page": 291,
+        "passages": [
+          1
+        ]
+      }
+    ],
+    "seconds": 47.8
+  },
+  {
+    "id": "q14",
+    "question": "Can the reasons recorded for a search or requisition be disclosed to anyone?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[301]",
+    "refused_by": null,
+    "cited": true,
+    "citation_correct": true,
+    "top_score": 4.83,
+    "answer": "No, the reasons recorded for a search or requisition cannot be disclosed to anyone. According to passage [1], \"The reason to believe or reason to suspect, as referred to in section 247 or 248, recorded by the income-tax authority shall not be disclosed to any person or authority or the Appellate Tribunal.\"",
+    "sources": [
+      {
+        "source": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf",
+        "page": 301,
+        "passages": [
+          1
+        ]
+      }
+    ],
+    "seconds": 60.0
+  },
+  {
+    "id": "q15",
+    "question": "Are proceedings before income-tax authorities treated as judicial proceedings?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[310]",
+    "refused_by": null,
+    "cited": true,
+    "citation_correct": true,
+    "top_score": 8.79,
+    "answer": "Yes, proceedings before income-tax authorities are treated as judicial proceedings. According to passage [1], \"Any proceeding under this Act before an income-tax authority shall be deemed to be a judicial proceeding within the meaning of sections 229 and 267 and for the purposes of section 233 of the Bharatiya Nyaya Sanhita, 2023 (45 of 2023).\"",
+    "sources": [
+      {
+        "source": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf",
+        "page": 310,
+        "passages": [
+          1
+        ]
+      }
+    ],
+    "seconds": 60.8
+  },
+  {
+    "id": "q16",
+    "question": "Which accounting methods can be used to compute business income?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[337]",
+    "refused_by": null,
+    "cited": true,
+    "citation_correct": true,
+    "top_score": 2.61,
+    "answer": "The income chargeable under the head \"Profits and gains of business or profession\" can be computed as per either the cash or mercantile system of accounting, provided it is the regularly employed method by the assessee [1].",
+    "sources": [
+      {
+        "source": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf",
+        "page": 337,
+        "passages": [
+          1
+        ]
+      }
+    ],
+    "seconds": 47.4
+  },
+  {
+    "id": "q17",
+    "question": "What does section 248 say about powers to requisition?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[300]",
+    "refused_by": null,
+    "cited": true,
+    "citation_correct": true,
+    "top_score": 5.22,
+    "answer": "Section 248 of the Income-tax Act-2025_2026 does not directly state its provisions in the provided passages. However, based on the context, it appears that section 248 authorizes the requisitioning of books of account, other documents, or assets from a person. When such requisitioned items are delivered to the requisitioning officer, the provisions of sections 247(4)(b), 247(7) to (11), 250, and 251 apply as if the requisitioning officer had seized these items from the person's custody [5].",
+    "sources": [
+      {
+        "source": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf",
+        "page": 300,
+        "passages": [
+          5
+        ]
+      }
+    ],
+    "seconds": 68.1
+  },
+  {
+    "id": "q18",
+    "question": "What types of payment are counted as salary?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[28]",
+    "refused_by": "score_gate",
+    "cited": true,
+    "citation_correct": null,
+    "top_score": -4.77,
+    "answer": "I don't know based on the provided documents.",
+    "sources": [],
+    "seconds": 1.4
+  },
+  {
+    "id": "q19",
+    "question": "Is capital gain from selling a residential house exempt if I buy another house?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[114]",
+    "refused_by": null,
+    "cited": true,
+    "citation_correct": false,
+    "top_score": 3.49,
+    "answer": "Yes, capital gains from the transfer of a residential house can be exempt if you purchase or construct another residential house within the specified time frames. According to the passage [1], if an individual or Hindu undivided family has capital gains from the transfer of a residential house and purchases or constructs another residential house within one year before or two years after the transfer, the capital gains may not be charged under section 67.\n\nSpecifically, the capital gains are not charged if:\n- The net consideration from the transfer of the original residential house is more than the cost of the new residential house, and so much of the capital gains as bears to the whole of the capital gains the same proportion as the cost of the new asset bears to the net consideration is not charged [1][1][1].\n- The net consideration from the transfer of the original residential house is equal to or less than the cost of the new residential house, in which case no capital gains are charged [1][1][1].\n\nHowever, if the new asset is transferred within three years from the date of purchase or its construction, the capital gains not charged under section 67 will be charged as long-term capital gains of the tax year in which such new asset is transferred [2][2][2].",
+    "sources": [
+      {
+        "source": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf",
+        "page": 118,
+        "passages": [
+          1,
+          2
+        ]
+      }
+    ],
+    "seconds": 80.4
+  },
+  {
+    "id": "q20",
+    "question": "For how many years can I claim a deduction on interest paid on a higher education loan?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[165]",
+    "refused_by": null,
+    "cited": true,
+    "citation_correct": true,
+    "top_score": 5.46,
+    "answer": "You can claim a deduction on interest paid on a higher education loan for a total of eight years, which includes the initial tax year and seven tax years immediately succeeding it, or until the interest is fully paid, whichever is earlier. [1]",
+    "sources": [
+      {
+        "source": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf",
+        "page": 165,
+        "passages": [
+          1
+        ]
+      }
+    ],
+    "seconds": 72.6
+  },
+  {
+    "id": "q21",
+    "question": "What deduction is allowed for rent paid for my own residence?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[171]",
+    "refused_by": null,
+    "cited": true,
+    "citation_correct": true,
+    "top_score": 7.53,
+    "answer": "For rent paid for your own residence, a deduction is allowed if the rent exceeds 10% of the total income, subject to a maximum of Rs. 5000 per month or 25% of total income for the tax year, whichever is less. [1]",
+    "sources": [
+      {
+        "source": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf",
+        "page": 171,
+        "passages": [
+          1
+        ]
+      }
+    ],
+    "seconds": 67.9
+  },
+  {
+    "id": "q22",
+    "question": "What is the maximum deduction for interest on an electric vehicle loan?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[168]",
+    "refused_by": null,
+    "cited": true,
+    "citation_correct": true,
+    "top_score": 5.29,
+    "answer": "The maximum deduction for interest on an electric vehicle loan is Rs. 150,000 [1][2].",
+    "sources": [
+      {
+        "source": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf",
+        "page": 168,
+        "passages": [
+          1
+        ]
+      },
+      {
+        "source": "Instructions_ITR1_AY2021_22.pdf",
+        "page": 14,
+        "passages": [
+          2
+        ]
+      }
+    ],
+    "seconds": 63.1
+  },
+  {
+    "id": "q23",
+    "question": "Can a loss be carried forward if the return for that year was not filed?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[157]",
+    "refused_by": "model",
+    "cited": true,
+    "citation_correct": null,
+    "top_score": 7.51,
+    "answer": "I don't know based on the provided documents.",
+    "sources": [],
+    "seconds": 45.6
+  },
+  {
+    "id": "q24",
+    "question": "Who can verify the income tax return of an individual who is mentally incapacitated?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[321]",
+    "refused_by": null,
+    "cited": true,
+    "citation_correct": true,
+    "top_score": 7.1,
+    "answer": "According to the passage [1], if an individual is mentally incapacitated from attending to his affairs, the return can be verified by his guardian or any other person competent to act on his behalf [1][3].",
+    "sources": [
+      {
+        "source": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf",
+        "page": 321,
+        "passages": [
+          1
+        ]
+      },
+      {
+        "source": "Instructions_ITR1_AY2021_22.pdf",
+        "page": 3,
+        "passages": [
+          3
+        ]
+      }
+    ],
+    "seconds": 78.1
+  },
+  {
+    "id": "q25",
+    "question": "Do I have to pay the tax due before furnishing my return?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[322]",
+    "refused_by": null,
+    "cited": true,
+    "citation_correct": true,
+    "top_score": 5.86,
+    "answer": "Yes, based on the provided documents, you have to pay the tax due before furnishing your return. According to [1] and [4], the assessee is liable to pay the tax, along with interest and fees, before furnishing the return.",
+    "sources": [
+      {
+        "source": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf",
+        "page": 322,
+        "passages": [
+          1
+        ]
+      },
+      {
+        "source": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf",
+        "page": 323,
+        "passages": [
+          4
+        ]
+      }
+    ],
+    "seconds": 63.2
+  },
+  {
+    "id": "q26",
+    "question": "How are non-resident sportsmen taxed on income earned in India?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[259]",
+    "refused_by": null,
+    "cited": true,
+    "citation_correct": true,
+    "top_score": 7.25,
+    "answer": "Non-resident sportsmen or sports associations are taxed on income earned in India as follows:\n\n- If the total income of an assessee, who is a non-resident sportsman (including an athlete) or a non-resident sports association or institution, includes any income received or receivable by way of participation in India in any game or sport, advertisement, or contribution of articles relating to any game or sport in India in newspapers, magazines, or journals, then the aggregate of income-tax payable by the assessee shall be computed at the rate specified in the column C applied on the corresponding income specified in column B. The rate of income-tax payable is 20% [2].\n\n- For payments to non-resident sportsmen (including athletes) or sports associations, income-tax is deducted at the rate of 20% [4].",
+    "sources": [
+      {
+        "source": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf",
+        "page": 259,
+        "passages": [
+          2
+        ]
+      },
+      {
+        "source": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf",
+        "page": 463,
+        "passages": [
+          4
+        ]
+      }
+    ],
+    "seconds": 126.2
+  },
+  {
+    "id": "q27",
+    "question": "What can the Assessing Officer do if income has escaped assessment?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[340]",
+    "refused_by": null,
+    "cited": true,
+    "citation_correct": true,
+    "top_score": 8.6,
+    "answer": "If income has escaped assessment, the Assessing Officer may assess or reassess such income or recompute the loss or the depreciation allowance or any other allowance or deduction for the relevant tax year [1].",
+    "sources": [
+      {
+        "source": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf",
+        "page": 340,
+        "passages": [
+          1
+        ]
+      }
+    ],
+    "seconds": 85.5
+  },
+  {
+    "id": "q28",
+    "question": "What is the minimum time a notice for income escaping assessment must give to respond?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[341]",
+    "refused_by": "model",
+    "cited": true,
+    "citation_correct": null,
+    "top_score": 2.26,
+    "answer": "I don't know based on the provided documents.",
+    "sources": [],
+    "seconds": 53.9
+  },
+  {
+    "id": "q29",
+    "question": "Can an income-tax authority ask a bank to furnish information about accounts?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[304]",
+    "refused_by": "model",
+    "cited": true,
+    "citation_correct": null,
+    "top_score": 4.3,
+    "answer": "I don't know based on the provided documents.",
+    "sources": [],
+    "seconds": 60.4
+  },
+  {
+    "id": "q30",
+    "question": "Can a tax authority enter a business place to conduct a survey?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[305]",
+    "refused_by": null,
+    "cited": true,
+    "citation_correct": false,
+    "top_score": 4.15,
+    "answer": "Based on the provided documents, an income-tax authority can enter a business place to conduct a survey [5]. Specifically, sub-section (1) of section 254 states that an income-tax authority may enter any building or place within the limits of the area assigned to such authority, or any building or place occupied by any person in respect of whom such authority exercises jurisdiction, for the purpose of collecting any information which may be useful for, or relevant to, the purposes of the Act.",
+    "sources": [
+      {
+        "source": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf",
+        "page": 307,
+        "passages": [
+          5
+        ]
+      }
+    ],
+    "seconds": 84.2
+  },
+  {
+    "id": "q31",
+    "question": "Who is eligible to use ITR-1?",
+    "answerable": true,
+    "expected": "Instructions_ITR1_AY2021_22.pdf p[1, 2]",
+    "refused_by": null,
+    "cited": true,
+    "citation_correct": true,
+    "top_score": 1.23,
+    "answer": "This Return Form is to be used by an individual who is a resident other than not ordinarily resident, whose total income for the Assessment Year 2021-22 does not exceed Rs. 50 lakh and who has income under the following heads:\n(a) Income from Salary/Pension;\n(b) Income from One House Property;\n(c) Interest income and/or family pension taxable under Other Sources. [5]",
+    "sources": [
+      {
+        "source": "Instructions_ITR1_AY2021_22.pdf",
+        "page": 1,
+        "passages": [
+          5
+        ]
+      }
+    ],
+    "seconds": 100.6
+  },
+  {
+    "id": "q32",
+    "question": "Can someone who has TDS under section 194N file ITR-1?",
+    "answerable": true,
+    "expected": "Instructions_ITR1_AY2021_22.pdf p[2]",
+    "refused_by": null,
+    "cited": true,
+    "citation_correct": true,
+    "top_score": 5.92,
+    "answer": "No, based on the provided documents, a resident individual who has TDS under section 194N cannot file ITR-1 [2][1].",
+    "sources": [
+      {
+        "source": "Instructions_ITR1_AY2021_22.pdf",
+        "page": 2,
+        "passages": [
+          1
+        ]
+      },
+      {
+        "source": "Instructions_ITR1_AY2021_22.pdf",
+        "page": 1,
+        "passages": [
+          2
+        ]
+      }
+    ],
+    "seconds": 75.5
+  },
+  {
+    "id": "q33",
+    "question": "Who is allowed to file the ITR-1 return in paper form?",
+    "answerable": true,
+    "expected": "Instructions_ITR1_AY2021_22.pdf p[3]",
+    "refused_by": null,
+    "cited": true,
+    "citation_correct": true,
+    "top_score": 4.24,
+    "answer": "Super senior citizens, i.e., individuals of the age of 80 years or more at any time during the previous year, are allowed to file the ITR-1 return in paper form [1].",
+    "sources": [
+      {
+        "source": "Instructions_ITR1_AY2021_22.pdf",
+        "page": 3,
+        "passages": [
+          1
+        ]
+      }
+    ],
+    "seconds": 94.5
+  },
+  {
+    "id": "q34",
+    "question": "What is the maximum agricultural income that can be reported in ITR-1?",
+    "answerable": true,
+    "expected": "Instructions_ITR1_AY2021_22.pdf p[17]",
+    "refused_by": null,
+    "cited": true,
+    "citation_correct": true,
+    "top_score": 8.53,
+    "answer": "The maximum agricultural income that can be reported in Form ITR-1 is up to Rs.5,000 [1].",
+    "sources": [
+      {
+        "source": "Instructions_ITR1_AY2021_22.pdf",
+        "page": 17,
+        "passages": [
+          1
+        ]
+      }
+    ],
+    "seconds": 100.7
+  },
+  {
+    "id": "q35",
+    "question": "What did the CBDT say about TDS certificate deadlines?",
+    "answerable": true,
+    "expected": "Circular-2-2026.pdf p[1]",
+    "refused_by": null,
+    "cited": true,
+    "citation_correct": true,
+    "top_score": 3.76,
+    "answer": "The CBDT extended the due date for issuance of TDS certificates to 31st March, 2026, due to technical glitches faced by deductors [1].",
+    "sources": [
+      {
+        "source": "Circular-2-2026.pdf",
+        "page": 1,
+        "passages": [
+          1
+        ]
+      }
+    ],
+    "seconds": 80.9
+  },
+  {
+    "id": "q36",
+    "question": "Under which section of the Act did the CBDT issue the order extending the TDS certificate timeline?",
+    "answerable": true,
+    "expected": "Circular-2-2026.pdf p[1]",
+    "refused_by": null,
+    "cited": true,
+    "citation_correct": true,
+    "top_score": 6.28,
+    "answer": "The CBDT issued the order extending the TDS certificate timeline under section 119 of the Income-tax Act, 1961 [2].",
+    "sources": [
+      {
+        "source": "Circular-2-2026.pdf",
+        "page": 1,
+        "passages": [
+          2
+        ]
+      }
+    ],
+    "seconds": 40.4
+  },
+  {
+    "id": "q37",
+    "question": "What is the GST rate on restaurant services?",
+    "answerable": false,
+    "expected": null,
+    "refused_by": "score_gate",
+    "cited": true,
+    "citation_correct": null,
+    "top_score": -6.44,
+    "answer": "I don't know based on the provided documents.",
+    "sources": [],
+    "seconds": 1.8
+  },
+  {
+    "id": "q38",
+    "question": "What is the corporate tax rate in the United States?",
+    "answerable": false,
+    "expected": null,
+    "refused_by": "score_gate",
+    "cited": true,
+    "citation_correct": null,
+    "top_score": -4.73,
+    "answer": "I don't know based on the provided documents.",
+    "sources": [],
+    "seconds": 2.2
+  },
+  {
+    "id": "q39",
+    "question": "Who won the 2023 Cricket World Cup?",
+    "answerable": false,
+    "expected": null,
+    "refused_by": "score_gate",
+    "cited": true,
+    "citation_correct": null,
+    "top_score": -8.3,
+    "answer": "I don't know based on the provided documents.",
+    "sources": [],
+    "seconds": 1.9
+  },
+  {
+    "id": "q40",
+    "question": "What is the capital of France?",
+    "answerable": false,
+    "expected": null,
+    "refused_by": "score_gate",
+    "cited": true,
+    "citation_correct": null,
+    "top_score": -9.98,
+    "answer": "I don't know based on the provided documents.",
+    "sources": [],
+    "seconds": 1.7
+  },
+  {
+    "id": "q41",
+    "question": "How do I register a trademark in India?",
+    "answerable": false,
+    "expected": null,
+    "refused_by": "model",
+    "cited": true,
+    "citation_correct": null,
+    "top_score": 1.55,
+    "answer": "I don't know based on the provided documents.",
+    "sources": [],
+    "seconds": 70.1
+  },
+  {
+    "id": "q42",
+    "question": "What is the stamp duty on property registration in Maharashtra?",
+    "answerable": false,
+    "expected": null,
+    "refused_by": "model",
+    "cited": true,
+    "citation_correct": null,
+    "top_score": -0.65,
+    "answer": "I don't know based on the provided documents.",
+    "sources": [],
+    "seconds": 70.9
+  },
+  {
+    "id": "q43",
+    "question": "What is the current repo rate set by the RBI?",
+    "answerable": false,
+    "expected": null,
+    "refused_by": "score_gate",
+    "cited": true,
+    "citation_correct": null,
+    "top_score": -9.51,
+    "answer": "I don't know based on the provided documents.",
+    "sources": [],
+    "seconds": 2.0
+  },
+  {
+    "id": "q44",
+    "question": "How do I apply for a new PAN card?",
+    "answerable": false,
+    "expected": null,
+    "refused_by": "model",
+    "cited": true,
+    "citation_correct": null,
+    "top_score": 1.38,
+    "answer": "I don't know based on the provided documents.",
+    "sources": [],
+    "seconds": 99.7
+  },
+  {
+    "id": "q45",
+    "question": "What is the penalty for evading customs duty?",
+    "answerable": false,
+    "expected": null,
+    "refused_by": "model",
+    "cited": true,
+    "citation_correct": null,
+    "top_score": -1.16,
+    "answer": "I don't know based on the provided documents.",
+    "sources": [],
+    "seconds": 52.6
+  },
+  {
+    "id": "q46",
+    "question": "What are the steps to file a GST return on the GST portal?",
+    "answerable": false,
+    "expected": null,
+    "refused_by": "score_gate",
+    "cited": true,
+    "citation_correct": null,
+    "top_score": -5.72,
+    "answer": "I don't know based on the provided documents.",
+    "sources": [],
+    "seconds": 2.2
+  },
+  {
+    "id": "q47",
+    "question": "What is the wealth tax rate in India?",
+    "answerable": false,
+    "expected": null,
+    "refused_by": "model",
+    "cited": true,
+    "citation_correct": null,
+    "top_score": 1.45,
+    "answer": "I don't know based on the provided documents.",
+    "sources": [],
+    "seconds": 64.9
+  },
+  {
+    "id": "q48",
+    "question": "What is the minimum wage in Punjab?",
+    "answerable": false,
+    "expected": null,
+    "refused_by": "score_gate",
+    "cited": true,
+    "citation_correct": null,
+    "top_score": -10.38,
+    "answer": "I don't know based on the provided documents.",
+    "sources": [],
+    "seconds": 1.7
+  }
+]
