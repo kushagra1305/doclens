@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "q01",
+    "question": "How is a 'tax year' defined in the Income-tax Act 2025?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[12]",
+    "rank": 6,
+    "top_distance": 0.173,
+    "top3": [
+      [
+        "Income-tax-Act-2025_2026_",
+        1,
+        0.173
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        625,
+        0.241
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        185,
+        0.272
+      ]
+    ]
+  },
+  {
+    "id": "q02",
+    "question": "How many days must an individual stay in India in a tax year to be treated as a resident?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[15]",
+    "rank": 1,
+    "top_distance": 0.146,
+    "top3": [
+      [
+        "Income-tax-Act-2025_2026_",
+        15,
+        0.146
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        15,
+        0.182
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        15,
+        0.183
+      ]
+    ]
+  },
+  {
+    "id": "q03",
+    "question": "How is income divided between husband and wife under the Portuguese Civil Code system in Goa?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[22]",
+    "rank": 1,
+    "top_distance": 0.155,
+    "top3": [
+      [
+        "Income-tax-Act-2025_2026_",
+        22,
+        0.155
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        22,
+        0.2
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        603,
+        0.36
+      ]
+    ]
+  },
+  {
+    "id": "q04",
+    "question": "When does a business have to keep and maintain books of account?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[87]",
+    "rank": 2,
+    "top_distance": 0.24,
+    "top3": [
+      [
+        "Income-tax-Act-2025_2026_",
+        412,
+        0.24
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        87,
+        0.242
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        527,
+        0.294
+      ]
+    ]
+  },
+  {
+    "id": "q05",
+    "question": "Above what turnover must a business get its accounts audited by an accountant?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[88]",
+    "rank": 1,
+    "top_distance": 0.261,
+    "top3": [
+      [
+        "Income-tax-Act-2025_2026_",
+        88,
+        0.261
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        532,
+        0.279
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        655,
+        0.27
+      ]
+    ]
+  },
+  {
+    "id": "q06",
+    "question": "What happens if a sum credited in an assessee's books has no satisfactory explanation?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[137]",
+    "rank": 1,
+    "top_distance": 0.217,
+    "top3": [
+      [
+        "Income-tax-Act-2025_2026_",
+        137,
+        0.217
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        137,
+        0.245
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        217,
+        0.275
+      ]
+    ]
+  },
+  {
+    "id": "q07",
+    "question": "For how many years can a business loss be carried forward?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[147]",
+    "rank": 1,
+    "top_distance": 0.173,
+    "top3": [
+      [
+        "Income-tax-Act-2025_2026_",
+        147,
+        0.2
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        148,
+        0.217
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        146,
+        0.173
+      ]
+    ]
+  },
+  {
+    "id": "q08",
+    "question": "What tax rebate does a resident individual get under the new tax regime if income is up to twelve lakh rupees?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[195]",
+    "rank": 1,
+    "top_distance": 0.216,
+    "top3": [
+      [
+        "Income-tax-Act-2025_2026_",
+        195,
+        0.216
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        195,
+        0.27
+      ],
+      [
+        "Instructions_ITR1_AY2021_",
+        30,
+        0.252
+      ]
+    ]
+  },
+  {
+    "id": "q09",
+    "question": "What is the limit on receiving cash payments in a single transaction?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[227]",
+    "rank": 3,
+    "top_distance": 0.259,
+    "top3": [
+      [
+        "Income-tax-Act-2025_2026_",
+        465,
+        0.305
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        465,
+        0.311
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        227,
+        0.259
+      ]
+    ]
+  },
+  {
+    "id": "q10",
+    "question": "Which businesses must offer digital payment facilities to customers?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[228]",
+    "rank": 10,
+    "top_distance": 0.314,
+    "top3": [
+      [
+        "Income-tax-Act-2025_2026_",
+        54,
+        0.385
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        468,
+        0.384
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        463,
+        0.382
+      ]
+    ]
+  },
+  {
+    "id": "q11",
+    "question": "What is the tax rate under the new tax regime on income between Rs 4,00,001 and Rs 8,00,000?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[244]",
+    "rank": 4,
+    "top_distance": 0.271,
+    "top3": [
+      [
+        "Instructions_ITR1_AY2021_",
+        24,
+        0.293
+      ],
+      [
+        "Instructions_ITR1_AY2021_",
+        23,
+        0.29
+      ],
+      [
+        "Instructions_ITR1_AY2021_",
+        30,
+        0.297
+      ]
+    ]
+  },
+  {
+    "id": "q12",
+    "question": "Does a non-resident Indian have to file a return if they only have investment income and tax was deducted at source?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[264]",
+    "rank": 1,
+    "top_distance": 0.16,
+    "top3": [
+      [
+        "Income-tax-Act-2025_2026_",
+        264,
+        0.16
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        261,
+        0.204
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        464,
+        0.26
+      ]
+    ]
+  },
+  {
+    "id": "q13",
+    "question": "Who adopts and declares the Taxpayer's Charter?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[291]",
+    "rank": 1,
+    "top_distance": 0.189,
+    "top3": [
+      [
+        "Income-tax-Act-2025_2026_",
+        291,
+        0.189
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        475,
+        0.332
+      ],
+      [
+        "Instructions_ITR1_AY2021_",
+        45,
+        null
+      ]
+    ]
+  },
+  {
+    "id": "q14",
+    "question": "Can the reasons recorded for a search or requisition be disclosed to anyone?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[301]",
+    "rank": 1,
+    "top_distance": 0.265,
+    "top3": [
+      [
+        "Income-tax-Act-2025_2026_",
+        301,
+        0.265
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        365,
+        0.333
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        359,
+        0.322
+      ]
+    ]
+  },
+  {
+    "id": "q15",
+    "question": "Are proceedings before income-tax authorities treated as judicial proceedings?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[310]",
+    "rank": 1,
+    "top_distance": 0.153,
+    "top3": [
+      [
+        "Income-tax-Act-2025_2026_",
+        310,
+        0.153
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        431,
+        0.268
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        602,
+        0.285
+      ]
+    ]
+  },
+  {
+    "id": "q16",
+    "question": "Which accounting methods can be used to compute business income?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[337]",
+    "rank": 1,
+    "top_distance": 0.268,
+    "top3": [
+      [
+        "Income-tax-Act-2025_2026_",
+        337,
+        0.268
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        277,
+        0.33
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        621,
+        null
+      ]
+    ]
+  },
+  {
+    "id": "q17",
+    "question": "What does section 248 say about powers to requisition?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[300]",
+    "rank": 8,
+    "top_distance": 0.249,
+    "top3": [
+      [
+        "Income-tax-Act-2025_2026_",
+        613,
+        0.249
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        303,
+        0.28
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        365,
+        0.285
+      ]
+    ]
+  },
+  {
+    "id": "q18",
+    "question": "What types of payment are counted as salary?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[28]",
+    "rank": 1,
+    "top_distance": 0.293,
+    "top3": [
+      [
+        "Income-tax-Act-2025_2026_",
+        28,
+        0.293
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        33,
+        0.327
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        459,
+        0.319
+      ]
+    ]
+  },
+  {
+    "id": "q19",
+    "question": "Is capital gain from selling a residential house exempt if I buy another house?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[114]",
+    "rank": 1,
+    "top_distance": 0.243,
+    "top3": [
+      [
+        "Income-tax-Act-2025_2026_",
+        114,
+        0.243
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        118,
+        0.245
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        118,
+        0.251
+      ]
+    ]
+  },
+  {
+    "id": "q20",
+    "question": "For how many years can I claim a deduction on interest paid on a higher education loan?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[165]",
+    "rank": 1,
+    "top_distance": 0.183,
+    "top3": [
+      [
+        "Income-tax-Act-2025_2026_",
+        165,
+        0.183
+      ],
+      [
+        "Instructions_ITR1_AY2021_",
+        14,
+        0.228
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        166,
+        0.25
+      ]
+    ]
+  },
+  {
+    "id": "q21",
+    "question": "What deduction is allowed for rent paid for my own residence?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[171]",
+    "rank": 1,
+    "top_distance": 0.239,
+    "top3": [
+      [
+        "Income-tax-Act-2025_2026_",
+        171,
+        0.253
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        43,
+        0.25
+      ],
+      [
+        "Instructions_ITR1_AY2021_",
+        15,
+        0.261
+      ]
+    ]
+  },
+  {
+    "id": "q22",
+    "question": "What is the maximum deduction for interest on an electric vehicle loan?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[168]",
+    "rank": 1,
+    "top_distance": 0.177,
+    "top3": [
+      [
+        "Income-tax-Act-2025_2026_",
+        168,
+        0.177
+      ],
+      [
+        "Instructions_ITR1_AY2021_",
+        14,
+        0.2
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        167,
+        0.248
+      ]
+    ]
+  },
+  {
+    "id": "q23",
+    "question": "Can a loss be carried forward if the return for that year was not filed?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[157]",
+    "rank": 1,
+    "top_distance": 0.2,
+    "top3": [
+      [
+        "Income-tax-Act-2025_2026_",
+        157,
+        0.2
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        146,
+        0.203
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        150,
+        0.218
+      ]
+    ]
+  },
+  {
+    "id": "q24",
+    "question": "Who can verify the income tax return of an individual who is mentally incapacitated?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[321]",
+    "rank": 1,
+    "top_distance": 0.231,
+    "top3": [
+      [
+        "Income-tax-Act-2025_2026_",
+        321,
+        0.231
+      ],
+      [
+        "Instructions_ITR1_AY2021_",
+        22,
+        0.284
+      ],
+      [
+        "Instructions_ITR1_AY2021_",
+        23,
+        0.351
+      ]
+    ]
+  },
+  {
+    "id": "q25",
+    "question": "Do I have to pay the tax due before furnishing my return?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[322]",
+    "rank": 3,
+    "top_distance": 0.231,
+    "top3": [
+      [
+        "Income-tax-Act-2025_2026_",
+        507,
+        0.231
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        323,
+        0.252
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        322,
+        0.265
+      ]
+    ]
+  },
+  {
+    "id": "q26",
+    "question": "How are non-resident sportsmen taxed on income earned in India?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[259]",
+    "rank": 1,
+    "top_distance": 0.139,
+    "top3": [
+      [
+        "Income-tax-Act-2025_2026_",
+        259,
+        0.139
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        21,
+        0.246
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        199,
+        0.274
+      ]
+    ]
+  },
+  {
+    "id": "q27",
+    "question": "What can the Assessing Officer do if income has escaped assessment?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[340]",
+    "rank": 1,
+    "top_distance": 0.165,
+    "top3": [
+      [
+        "Income-tax-Act-2025_2026_",
+        340,
+        0.165
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        341,
+        0.211
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        341,
+        0.218
+      ]
+    ]
+  },
+  {
+    "id": "q28",
+    "question": "What is the minimum time a notice for income escaping assessment must give to respond?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[341]",
+    "rank": 4,
+    "top_distance": 0.205,
+    "top3": [
+      [
+        "Income-tax-Act-2025_2026_",
+        340,
+        0.248
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        342,
+        0.276
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        507,
+        0.291
+      ]
+    ]
+  },
+  {
+    "id": "q29",
+    "question": "Can an income-tax authority ask a bank to furnish information about accounts?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[304]",
+    "rank": 6,
+    "top_distance": 0.247,
+    "top3": [
+      [
+        "Income-tax-Act-2025_2026_",
+        312,
+        0.286
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        305,
+        0.247
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        596,
+        0.249
+      ]
+    ]
+  },
+  {
+    "id": "q30",
+    "question": "Can a tax authority enter a business place to conduct a survey?",
+    "answerable": true,
+    "expected": "Income-tax-Act-2025_2026_2026-08-25_10-41-45_a1d3cd_en.pdf p[305]",
+    "rank": 2,
+    "top_distance": 0.266,
+    "top3": [
+      [
+        "Income-tax-Act-2025_2026_",
+        307,
+        0.266
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        305,
+        0.284
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        305,
+        0.32
+      ]
+    ]
+  },
+  {
+    "id": "q31",
+    "question": "Who is eligible to use ITR-1?",
+    "answerable": true,
+    "expected": "Instructions_ITR1_AY2021_22.pdf p[1, 2]",
+    "rank": 1,
+    "top_distance": 0.326,
+    "top3": [
+      [
+        "Instructions_ITR1_AY2021_",
+        2,
+        0.326
+      ],
+      [
+        "Instructions_ITR1_AY2021_",
+        24,
+        0.35
+      ],
+      [
+        "Instructions_ITR1_AY2021_",
+        17,
+        0.372
+      ]
+    ]
+  },
+  {
+    "id": "q32",
+    "question": "Can someone who has TDS under section 194N file ITR-1?",
+    "answerable": true,
+    "expected": "Instructions_ITR1_AY2021_22.pdf p[2]",
+    "rank": 1,
+    "top_distance": 0.301,
+    "top3": [
+      [
+        "Instructions_ITR1_AY2021_",
+        2,
+        0.301
+      ],
+      [
+        "Instructions_ITR1_AY2021_",
+        24,
+        0.311
+      ],
+      [
+        "Circular-2-2026.pdf",
+        1,
+        0.351
+      ]
+    ]
+  },
+  {
+    "id": "q33",
+    "question": "Who is allowed to file the ITR-1 return in paper form?",
+    "answerable": true,
+    "expected": "Instructions_ITR1_AY2021_22.pdf p[3]",
+    "rank": 2,
+    "top_distance": 0.226,
+    "top3": [
+      [
+        "Instructions_ITR1_AY2021_",
+        2,
+        0.226
+      ],
+      [
+        "Instructions_ITR1_AY2021_",
+        3,
+        0.251
+      ],
+      [
+        "Instructions_ITR1_AY2021_",
+        24,
+        0.227
+      ]
+    ]
+  },
+  {
+    "id": "q34",
+    "question": "What is the maximum agricultural income that can be reported in ITR-1?",
+    "answerable": true,
+    "expected": "Instructions_ITR1_AY2021_22.pdf p[17]",
+    "rank": 1,
+    "top_distance": 0.172,
+    "top3": [
+      [
+        "Instructions_ITR1_AY2021_",
+        17,
+        0.172
+      ],
+      [
+        "Instructions_ITR1_AY2021_",
+        10,
+        0.307
+      ],
+      [
+        "Instructions_ITR1_AY2021_",
+        2,
+        0.337
+      ]
+    ]
+  },
+  {
+    "id": "q35",
+    "question": "What did the CBDT say about TDS certificate deadlines?",
+    "answerable": true,
+    "expected": "Circular-2-2026.pdf p[1]",
+    "rank": 1,
+    "top_distance": 0.212,
+    "top3": [
+      [
+        "Circular-2-2026.pdf",
+        1,
+        0.212
+      ],
+      [
+        "Circular-2-2026.pdf",
+        1,
+        0.265
+      ],
+      [
+        "Waiver-of-interest-Circul",
+        2,
+        0.351
+      ]
+    ]
+  },
+  {
+    "id": "q36",
+    "question": "Under which section of the Act did the CBDT issue the order extending the TDS certificate timeline?",
+    "answerable": true,
+    "expected": "Circular-2-2026.pdf p[1]",
+    "rank": 1,
+    "top_distance": 0.211,
+    "top3": [
+      [
+        "Circular-2-2026.pdf",
+        1,
+        0.211
+      ],
+      [
+        "Circular-2-2026.pdf",
+        1,
+        0.239
+      ],
+      [
+        "Waiver-of-interest-Circul",
+        2,
+        0.34
+      ]
+    ]
+  },
+  {
+    "id": "q37",
+    "question": "What is the GST rate on restaurant services?",
+    "answerable": false,
+    "expected": null,
+    "rank": null,
+    "top_distance": 0.374,
+    "top3": [
+      [
+        "Income-tax-Act-2025_2026_",
+        462,
+        0.374
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        254,
+        0.374
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        462,
+        0.38
+      ]
+    ]
+  },
+  {
+    "id": "q38",
+    "question": "What is the corporate tax rate in the United States?",
+    "answerable": false,
+    "expected": null,
+    "rank": null,
+    "top_distance": 0.313,
+    "top3": [
+      [
+        "Income-tax-Act-2025_2026_",
+        465,
+        0.361
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        8,
+        0.374
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        242,
+        0.313
+      ]
+    ]
+  },
+  {
+    "id": "q39",
+    "question": "Who won the 2023 Cricket World Cup?",
+    "answerable": false,
+    "expected": null,
+    "rank": null,
+    "top_distance": 0.449,
+    "top3": [
+      [
+        "Income-tax-Act-2025_2026_",
+        8,
+        0.491
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        464,
+        0.51
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        607,
+        0.522
+      ]
+    ]
+  },
+  {
+    "id": "q40",
+    "question": "What is the capital of France?",
+    "answerable": false,
+    "expected": null,
+    "rank": null,
+    "top_distance": 0.504,
+    "top3": [
+      [
+        "Income-tax-Act-2025_2026_",
+        270,
+        0.549
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        645,
+        0.539
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        642,
+        0.504
+      ]
+    ]
+  },
+  {
+    "id": "q41",
+    "question": "How do I register a trademark in India?",
+    "answerable": false,
+    "expected": null,
+    "rank": null,
+    "top_distance": 0.302,
+    "top3": [
+      [
+        "Income-tax-Act-2025_2026_",
+        594,
+        0.379
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        637,
+        0.386
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        18,
+        0.372
+      ]
+    ]
+  },
+  {
+    "id": "q42",
+    "question": "What is the stamp duty on property registration in Maharashtra?",
+    "answerable": false,
+    "expected": null,
+    "rank": null,
+    "top_distance": 0.305,
+    "top3": [
+      [
+        "Income-tax-Act-2025_2026_",
+        125,
+        0.305
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        126,
+        0.315
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        460,
+        0.326
+      ]
+    ]
+  },
+  {
+    "id": "q43",
+    "question": "What is the current repo rate set by the RBI?",
+    "answerable": false,
+    "expected": null,
+    "rank": null,
+    "top_distance": 0.31,
+    "top3": [
+      [
+        "Instructions_ITR1_AY2021_",
+        7,
+        0.31
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        646,
+        0.352
+      ],
+      [
+        "Instructions_ITR1_AY2021_",
+        42,
+        0.358
+      ]
+    ]
+  },
+  {
+    "id": "q44",
+    "question": "How do I apply for a new PAN card?",
+    "answerable": false,
+    "expected": null,
+    "rank": null,
+    "top_distance": 0.287,
+    "top3": [
+      [
+        "Instructions_ITR1_AY2021_",
+        4,
+        0.287
+      ],
+      [
+        "Instructions_ITR1_AY2021_",
+        4,
+        0.298
+      ],
+      [
+        "Instructions_ITR1_AY2021_",
+        48,
+        0.34
+      ]
+    ]
+  },
+  {
+    "id": "q45",
+    "question": "What is the penalty for evading customs duty?",
+    "answerable": false,
+    "expected": null,
+    "rank": null,
+    "top_distance": 0.262,
+    "top3": [
+      [
+        "Income-tax-Act-2025_2026_",
+        554,
+        0.264
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        557,
+        0.278
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        551,
+        0.282
+      ]
+    ]
+  },
+  {
+    "id": "q46",
+    "question": "What are the steps to file a GST return on the GST portal?",
+    "answerable": false,
+    "expected": null,
+    "rank": null,
+    "top_distance": 0.335,
+    "top3": [
+      [
+        "Instructions_ITR1_AY2021_",
+        3,
+        0.356
+      ],
+      [
+        "Instructions_ITR1_AY2021_",
+        2,
+        0.338
+      ],
+      [
+        "Circular-2-2026.pdf",
+        1,
+        0.368
+      ]
+    ]
+  },
+  {
+    "id": "q47",
+    "question": "What is the wealth tax rate in India?",
+    "answerable": false,
+    "expected": null,
+    "rank": null,
+    "top_distance": 0.286,
+    "top3": [
+      [
+        "Income-tax-Act-2025_2026_",
+        199,
+        0.295
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        259,
+        0.317
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        246,
+        0.33
+      ]
+    ]
+  },
+  {
+    "id": "q48",
+    "question": "What is the minimum wage in Punjab?",
+    "answerable": false,
+    "expected": null,
+    "rank": null,
+    "top_distance": 0.367,
+    "top3": [
+      [
+        "Income-tax-Act-2025_2026_",
+        33,
+        0.384
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        33,
+        0.386
+      ],
+      [
+        "Income-tax-Act-2025_2026_",
+        33,
+        0.403
+      ]
+    ]
+  }
+]
